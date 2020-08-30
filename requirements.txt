@@ -1,0 +1,5 @@
+click==7.1.2
+wheel==0.34.2
+matplotlib==3.3.0
+tqdm==4.48.2
+colorama==0.4.3
